@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project 3: Use Deep Learning to Clone Driving Behavior
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
@@ -117,4 +116,3 @@ The video will run at 48 FPS. The default FPS is 60.
 =======
 # my-Behavioral-Cloning-Project-From-Udacity
 This is my solution to Udacity's CarND-Behavioral-Cloning project for the Self Driving Car Engineer Nanodegree 
->>>>>>> ac0c91e29f9e22a5a838ab499885cf40901964bf
