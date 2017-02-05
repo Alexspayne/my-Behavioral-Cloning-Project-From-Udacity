@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 3: Use Deep Learning to Clone Driving Behavior
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
@@ -113,3 +114,7 @@ The video will run at 48 FPS. The default FPS is 60.
 
 1. It's been noted the simulator might perform differently based on the hardware. So if your model drives succesfully on your machine it might not on another machine (your reviewer). Saving a video is a solid backup in case this happens.
 2. You could slightly alter the code in `drive.py` and/or `video.py` to create a video of what your model sees after the image is processed (may be helpful for debugging).
+=======
+# my-Behavioral-Cloning-Project-From-Udacity
+This is my solution to Udacity's CarND-Behavioral-Cloning project for the Self Driving Car Engineer Nanodegree 
+>>>>>>> ac0c91e29f9e22a5a838ab499885cf40901964bf
