@@ -1,3 +1,4 @@
+
 #**Behavioral Cloning Project** 
 
 The goals / steps of this project are the following:
@@ -112,7 +113,7 @@ After experiementing with the sensitivity and the dampening, I was able to easil
 
 I feel like this gave me much better quality data because it allowed me to easily stay close to the center of the track.
 The alternative control scheme would be to snap between -25, 0, and 25 degrees for steering.
-Using the controller, I was able to keep a relatively constaint steering angle around each different turn.
+Using the controller, I was able to keep a relatively constant steering angle around each different turn.
 
 ##### Recording
 
@@ -139,4 +140,3 @@ Both steps were handled for me using the Keras framework by passing parameters t
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was 4.  2 epochs was a bit too few, and 10 took too long.
 I used an adam optimizer so that manually training the learning rate wasn't necessary.
-
