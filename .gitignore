@@ -1,1 +1,8 @@
 .ipynb_checkpoints
+data/*
+
+# Ignoring emacs files
+*.*~
+
+!data/note.md
+
